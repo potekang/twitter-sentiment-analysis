@@ -2,7 +2,7 @@
 
 ![Status badge](https://img.shields.io/badge/Status-Archived-important)
 
-**Update**(Apr 6, 2021) This repo is based on [Sentiment Analysis on Tweets](https://github.com/abdulfatir/twitter-sentiment-analysis). This repo is used for CSCE 638 project.
+**Update**(Apr 6, 2021) This repo is based on [Sentiment Analysis on Tweets](https://github.com/abdulfatir/twitter-sentiment-analysis).
 
 ## Dataset Information
 
